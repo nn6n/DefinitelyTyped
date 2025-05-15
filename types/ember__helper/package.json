@@ -8,7 +8,7 @@
         "https://github.com/emberjs/ember.js"
     ],
     "dependencies": {
-        "@glimmer/manager": ">=0.83.0 <0.93.0",
+        "@glimmer/manager": ">=0.94.9",
         "@glimmer/runtime": ">=0.83.0 <0.93.0",
         "@types/ember": "*"
     },
